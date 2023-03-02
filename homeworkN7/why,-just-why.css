@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+.main-box{
+    width: 1440px;
+    height: 1550px;
+}
+.box-in-a-box{
+    width: 562px;
+    height: 818px;
+    margin-top: 341px;
+    background-color: #FAFAFA;
+    border: 1px #DCDCDC solid;
+}
+.cool{
+    margin-top: 97px;
+}
+.title-box{
+    max-width: 273px;
+    margin-top: 66.43px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36.31px;
+}
+.text-box{
+    max-width: 476px;
+    margin-top: 59px;
+}
+.text{
+    font-size: 19px;
+    font-weight: 400;
+
+}
